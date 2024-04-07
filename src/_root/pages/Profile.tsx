@@ -3,7 +3,6 @@ import { Route, Routes, Link, Outlet, useParams, useLocation } from "react-route
 import { LikedPosts } from "@/_root/pages";
 import { useUserContext } from "@/context/AuthContext";
 import Loader from "@/components/shared/Loader";
-import { Button } from "@/components/ui/button";
 import GridPostList from "@/components/shared/GridPostList";
 import { useGetCurrentUser } from "@/lib/react-query/queriesAndMutations";
 

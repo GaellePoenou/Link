@@ -21,7 +21,7 @@ const EditPost = () => {
             height={36} />
           <h2 className="h3-bold md:h-2-bold text-left w-full">Modifier le post</h2>
         </div>
-        <PostForm action='Update' post={post} />
+        <PostForm action='Mettre à jour' post={post} />
       </div>
     </div>
   )
