@@ -2,22 +2,22 @@ export const sidebarLinks = [
   {
     imgURL: "/assets/icons/home.svg",
     route: "/",
-    label: "Home",
+    label: "Accueil",
   },
   {
     imgURL: "/assets/icons/like.svg",
     route: "/liked-posts",
-    label: "Liked",
+    label: "Likes",
   },
   {
     imgURL: "/assets/icons/bookmark.svg",
     route: "/saved",
-    label: "Saved",
+    label: "Sauvegardés",
   },
   {
     imgURL: "/assets/icons/gallery-add.svg",
     route: "/create-post",
-    label: "Create Post",
+    label: "Créer un post",
   },
 ];
 
@@ -25,21 +25,21 @@ export const bottombarLinks = [
   {
     imgURL: "/assets/icons/home.svg",
     route: "/",
-    label: "Home",
+    label: "Accueil",
   },
   {
     imgURL: "/assets/icons/like.svg",
     route: "/liked-posts",
-    label: "Liked",
+    label: "Likes",
   },
   {
     imgURL: "/assets/icons/bookmark.svg",
     route: "/saved",
-    label: "Saved",
+    label: "Sauvegardés",
   },
   {
     imgURL: "/assets/icons/gallery-add.svg",
     route: "/create-post",
-    label: "Create",
+    label: "Créer",
   },
 ];
